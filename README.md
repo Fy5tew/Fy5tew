@@ -14,6 +14,6 @@
 	</div>
 	<div>
 		<h2>My Most Used Languages</h2>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&cache_seconds=1800&langs_count=5&hide_title=true&card_width=450&layout=compact&theme=github_dark">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&cache_seconds=1800&langs_count=5&hide_title=true&card_width=450&layout=compact&theme=github_dark&border_color=57a5fe">
 	</div>
 </div>	
