@@ -11,23 +11,23 @@
 	<div>
 		<h2>My GitHub Stats</h2>
 		<!-- DarkMode -->
-		<a href="https://github-readme-stats.vercel.app/api?show_icons=true&hide_rank=false&count_private=true&disable_animations=true&username=fy5tew&cache_seconds=1800&hide_title=true&border_color=57a5fe&theme=github_dark#gh-dark-mode-only">
-			<img src="https://github-readme-stats.vercel.app/api?show_icons=true&hide_rank=false&count_private=true&disable_animations=true&username=fy5tew&cache_seconds=1800&hide_title=true&border_color=57a5fe&theme=github_dark" alt="See My GitHub Stats" width="500px">
+		<a href="https://github-readme-stats.vercel.app/api?show_icons=true&hide_rank=false&count_private=true&disable_animations=true&username=fy5tew&cache_seconds=1800&locale=en&hide_title=true&border_color=57a5fe&theme=github_dark#gh-dark-mode-only">
+			<img src="https://github-readme-stats.vercel.app/api?show_icons=true&hide_rank=false&count_private=true&disable_animations=true&username=fy5tew&cache_seconds=1800&locale=en&hide_title=true&border_color=57a5fe&theme=github_dark" alt="See My GitHub Stats" width="500px">
 		</a>
 		<!-- LightMode -->
-		<a href="https://github-readme-stats.vercel.app/api?show_icons=true&hide_rank=false&count_private=true&disable_animations=true&username=fy5tew&cache_seconds=1800&hide_title=true&border_color=57a5fe&theme=github_light#gh-light-mode-only">
-			<img src="https://github-readme-stats.vercel.app/api?show_icons=true&hide_rank=false&count_private=true&disable_animations=true&username=fy5tew&cache_seconds=1800&hide_title=true&border_color=57a5fe&theme=github_light" alt="See My GitHub Stats" width="500px">
+		<a href="https://github-readme-stats.vercel.app/api?show_icons=true&hide_rank=false&count_private=true&disable_animations=true&username=fy5tew&cache_seconds=1800&locale=en&hide_title=true&border_color=57a5fe&theme=github_light#gh-light-mode-only">
+			<img src="https://github-readme-stats.vercel.app/api?show_icons=true&hide_rank=false&count_private=true&disable_animations=true&username=fy5tew&cache_seconds=1800&locale=en&hide_title=true&border_color=57a5fe&theme=github_light" alt="See My GitHub Stats" width="500px">
 		</a>
 	</div>
 	<div>
 		<h2>My Most Used Languages</h2>
 		<!-- DarkMode -->
-		<a href="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&langs_count=10&username=fy5tew&cache_seconds=1800&hide_title=true&border_color=57a5fe&theme=github_dark#gh-dark-mode-only">
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&langs_count=10&username=fy5tew&cache_seconds=1800&hide_title=true&border_color=57a5fe&theme=github_dark" alt="See My Most Used Languages" width="500px">
+		<a href="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&langs_count=10&username=fy5tew&cache_seconds=1800&locale=en&hide_title=true&border_color=57a5fe&theme=github_dark#gh-dark-mode-only">
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&langs_count=10&username=fy5tew&cache_seconds=1800&locale=en&hide_title=true&border_color=57a5fe&theme=github_dark" alt="See My Most Used Languages" width="500px">
 		</a>
 		<!-- LightMode -->
-		<a href="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&langs_count=10&username=fy5tew&cache_seconds=1800&hide_title=true&border_color=57a5fe&theme=github_light#gh-light-mode-only">
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&langs_count=10&username=fy5tew&cache_seconds=1800&hide_title=true&border_color=57a5fe&theme=github_light" alt="See My Most Used Languages" width="500px">
+		<a href="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&langs_count=10&username=fy5tew&cache_seconds=1800&locale=en&hide_title=true&border_color=57a5fe&theme=github_light#gh-light-mode-only">
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&langs_count=10&username=fy5tew&cache_seconds=1800&locale=en&hide_title=true&border_color=57a5fe&theme=github_light" alt="See My Most Used Languages" width="500px">
 		</a>
 	</div>
 </div>	
