@@ -1,13 +1,14 @@
+<a href="https://img.shields.io/github/followers/fy5tew?style=social">
+	<img src="https://img.shields.io/github/followers/fy5tew?style=social" alt="Follow">
+</a>
 <div align="center">
-	<div>
-		<h2>Contact me</h2>
-		<a href="https://t.me/fy5tew">
-			<img src="https://img.shields.io/badge/Telegram-27a7e8?style=for-the-badge&logo=telegram" alt="Telegram">
-		</a>
-		<a href="https://vk.com/fy5tew">
-			<img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-4680C2?style=for-the-badge&logo=vk" alt="ВКонтакте">
-		</a>
-	</div>
+	<h2>Contact me</h2>
+	<a href="https://t.me/fy5tew">
+		<img src="https://img.shields.io/badge/Telegram-27a7e8?style=for-the-badge&logo=telegram" alt="Telegram">
+	</a>
+	<a href="https://vk.com/fy5tew">
+		<img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-4680C2?style=for-the-badge&logo=vk" alt="ВКонтакте">
+	</a>
 	<div>
 		<h2>My GitHub Stats</h2>
 		<!-- DarkMode -->
