@@ -10,6 +10,9 @@
 	src="https://img.shields.io/github/followers/fy5tew?style=social"
 	alt="Follow"
 /></a>
+
+
+
 <!-- My skills -->
 <h4>My skills</h4>
 <div>
@@ -38,12 +41,13 @@
 	height=20
 	/>
 </div>
+
 <!-- My contacts -->
 <div align="center">
 	<h2>Contact me</h2>
 	<a href="https://t.me/fy5tew">
 		<img
-		src=https://img.shields.io/badge/Telegram-27a7e8?style=for-the-badge&logo=telegram
+		src=https://img.shields.io/badge/Telegram-27a7e8?style=for-the-badge&logo=telegram&logoColor=white
 		alt="Telegram"
 	/></a>
 	<a href="https://vk.com/fy5tew">
@@ -52,8 +56,10 @@
 		alt="ВКонтакте"
 	/></a>
 </div>
+
 <!-- GitHub stats -->
 <h2 align="center">My GitHub Stats</h2>
+
 <!-- DarkMode -->
 <div align="center">
 	<a href="https://github-readme-stats.vercel.app/api?custom_title=GitHub%20Stats&show_icons=true&hide_rank=false&count_private=true&disable_animations=true&username=fy5tew&cache_seconds=1800&locale=en&border_color=57a5fe&theme=github_dark#gh-dark-mode-only">
@@ -69,6 +75,7 @@
 		height=160
 	/></a>
 </div>
+
 <!-- LightMode -->
 <div align="center">
 	<a href="https://github-readme-stats.vercel.app/api?custom_title=GitHub%20Stats&show_icons=true&hide_rank=false&count_private=true&disable_animations=true&username=fy5tew&cache_seconds=1800&locale=en&border_color=57a5fe&theme=github_light#gh-light-mode-only">
