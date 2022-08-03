@@ -1,7 +1,7 @@
 <!-- About me -->
 <h2>👋 Hi! I'm Nikita</h2>
 <a href="https://img.shields.io/badge/Python%20Developer-blue?style=flat-square&logo=python&logoColor=white">
-	<img src="https://img.shields.io/badge/Python%20Developer-blue?style=flat-square&logo=python&logoColor=white" alt="Python dev">
+	<img src="https://img.shields.io/badge/Python%20Developer-blue?style=flat-square&logo=python&logoColor=white" alt="Python Developer">
 </a>
 <a href="https://img.shields.io/github/followers/fy5tew?style=social">
 	<img src="https://img.shields.io/github/followers/fy5tew?style=social" alt="Follow">
