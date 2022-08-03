@@ -10,7 +10,7 @@
 		<img src=https://img.shields.io/badge/Telegram-27a7e8?style=for-the-badge&logo=telegram alt="Telegram">
 	</a>
 	<a href="https://vk.com/fy5tew">
-		<img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-4680C2?style=for-the-badge&logo=vk" alt="ВКонтакте">
+		<img src="https://img.shields.io/badge/%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="ВКонтакте">
 	</a>
 </div>
 <!-- GitHub stats -->
